@@ -178,9 +178,9 @@ when worker is computing result for intermeidate file / reduce output file, it w
 
 **Map**
 
-![](lab1Figures/lab1Figures/tempMap.png)
+![](lab1Figures/tempMap.png)
 
 **Reduce**
 
-![](lab1Figures/lab1Figures/tempReduce.png)
+![](lab1Figures/tempReduce.png)
 
