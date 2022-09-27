@@ -4,7 +4,7 @@ This MapReduce system designed by mit6.824 is similar to the [MapReduce paper](h
 
 Tests:
 
-<img src="C:\Users\jiaxi\DistbutedMR\lab1Figures\test.png" style="zoom: 67%;" />
+<img src="lab1Figures/test.png" style="zoom: 67%;" />
 
 
 
@@ -18,7 +18,7 @@ reduce: fileNum(2) intermediate files -> 1 reduce output
 
 cat: reduceNum reduce outputs -> final output
 
-![](C:\Users\jiaxi\6.824\notes\lab1Figures\generalMapReduce.png)
+![](lab1Figures/generalMapReduce.png)
 
 
 
@@ -28,7 +28,7 @@ worker: ask for 1 task, get 1 task, do the task, tell coordinator that the task 
 
 coordinator: get request for 1 task, assign 1 task, set the task finished when worker finishes it
 
-![](C:\Users\jiaxi\6.824\notes\lab1Figures\generalMasterWorker.png)
+![](lab1Figures/generalMasterWorker.png)
 
 
 
@@ -178,9 +178,9 @@ when worker is computing result for intermeidate file / reduce output file, it w
 
 **Map**
 
-![](C:\Users\jiaxi\6.824\notes\lab1Figures\tempMap.png)
+![](lab1Figures/lab1Figures/tempMap.png)
 
 **Reduce**
 
-![](C:\Users\jiaxi\6.824\notes\lab1Figures\tempReduce.png)
+![](lab1Figures/lab1Figures/tempReduce.png)
 
